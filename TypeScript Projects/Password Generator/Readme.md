@@ -8,8 +8,11 @@ This TypeScript function generates a random password of a specified length (defa
 ## 📐 Algorithm
 
 - The function defines a string `characters` containing all possible characters for the password.
+  
 - It then generates an array of the desired length, where each element is a randomly selected character from the `characters` string.
+
 - The `Array.from()` method is used to create the array of random characters, and `Math.floor(Math.random() * characters.length)` generates random indices to select characters.
+  
 - Finally, it joins the array into a single string to form the password.
 
 ---
