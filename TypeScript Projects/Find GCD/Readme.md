@@ -16,7 +16,7 @@ $$
 ##
 
 $$
-\large \text{When } b \text{ becomes } 0, \, a \text{ is the GCD.}
+\large \text{When } b \text{ becomes } 0,  a \text{ is the GCD.}
 $$
 
 ---
