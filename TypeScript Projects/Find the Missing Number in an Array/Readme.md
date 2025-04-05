@@ -8,11 +8,11 @@ This TypeScript function takes an array of numbers and the total number `n` as i
 ## 📐 Algorithm
 
 - The function first calculates the **expected sum** of the numbers from 1 to `n` using the formula:
-  
+##  
 $$
 \large \text{expectedSum} = \frac{n \times (n + 1)}{2}
 $$
-
+##
 - Then, it calculates the **actual sum** of the elements in the array using `reduce()`.
 - The difference between the expected sum and the actual sum gives the missing number.
 
