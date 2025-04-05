@@ -56,13 +56,13 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
   
 - [Download](https://github.com/JakubStachh/Type-Script-Projects/archive/refs/heads/main.zip) the code
 - Unpack the zip file
-- Find the `GO-Projects-main\GO Projects\`
-- Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
+- Find the `\Type-Script-Projects-main\TypeScript Projects\`
+- Open the folder of the program You want to try out `\Type-Script-Projects-main\TypeScript Projects\Check for Anagrams`
 - and then run:
   
   ```sh
-  tsc example.ts
-  node example.js
+  tsc CheckforAnagrams.ts
+  node CheckforAnagrams.js
   ```
 - Remember to check if you got tsc:
   ```
