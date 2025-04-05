@@ -8,6 +8,7 @@ This TypeScript function calculates the **Greatest Common Divisor (GCD)** of two
 ## 📐 Algorithm
 
 The Euclidean Algorithm is based on the principle:
+
 $$
 \large gcd(a, b) = gcd(b, a % b)
 $$
