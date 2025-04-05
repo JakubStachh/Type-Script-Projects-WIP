@@ -12,23 +12,23 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 |‎  ‎ 2️⃣ |[Check for Prime Number](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20for%20Prime%20Number)|This TypeScript function checks if a given number is a prime number|
 |‎‎‎  ‎ 3️⃣ |[Check if Two Strings are Anagrams](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20Two%20Strings%20are%20Anagrams)|This TypeScript function determines whether two given strings are anagrams|
 |‎  ‎ 4️⃣ |[Check if a String Contains Only Unique Characters](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20a%20String%20Contains%20Only%20Unique%20Characters)|This TypeScript function checks if a string contains only unique characters, i.e., no characters repeat.|
-|‎  ‎ 5️⃣ |[]()| A simple CLI Tic-Tac-Toe game |
-|‎  ‎ 6️⃣ |[]()| Converts Celsius to Fahrenheit and vice versa |
-|‎  ‎ 7️⃣ |[]()|
-|‎  ‎ 8️⃣ |[]()|
-|‎  ‎ 9️⃣ |[]()|
-| 1️⃣0️⃣ |[]()|
-| 1️⃣1️⃣ |[]()|
-| 1️⃣2️⃣ |[]()|
-| 1️⃣3️⃣ |[]()|
-| 1️⃣4️⃣ |[]()|
-| 1️⃣5️⃣ |[]()|
-| 1️⃣6️⃣ |[]()|
-| 1️⃣7️⃣ |[]()|
-| 1️⃣8️⃣ |[]()|
-| 1️⃣9️⃣ |[]()|
-| 2️⃣0️⃣ |[]()|
-| 2️⃣1️⃣ |[]()|
+|‎  ‎ 5️⃣ |[Check if a String is a Palindrome](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20a%20String%20is%20a%20Palindrome)|This TypeScript function checks whether a given string is a palindrome — a string that reads the same forward and backward|
+|‎  ‎ 6️⃣ |[Check if an Array is Sorted](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20an%20Array%20is%20Sorted)|This TypeScript function determines whether an array of numbers is sorted in non-decreasing order|
+|‎  ‎ 7️⃣ |[Count Vowels in a String](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Count%20Vowels%20in%20a%20String)||
+|‎  ‎ 8️⃣ |[]()||
+|‎  ‎ 9️⃣ |[]()||
+| 1️⃣0️⃣ |[]()||
+| 1️⃣1️⃣ |[]()||
+| 1️⃣2️⃣ |[]()||
+| 1️⃣3️⃣ |[]()||
+| 1️⃣4️⃣ |[]()||
+| 1️⃣5️⃣ |[]()||
+| 1️⃣6️⃣ |[]()||
+| 1️⃣7️⃣ |[]()||
+| 1️⃣8️⃣ |[]()||
+| 1️⃣9️⃣ |[]()||
+| 2️⃣0️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
 
 
 ---
