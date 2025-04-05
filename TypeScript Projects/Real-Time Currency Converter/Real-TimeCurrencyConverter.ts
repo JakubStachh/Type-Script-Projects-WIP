@@ -17,4 +17,4 @@ async function convertCurrency(amount: number, fromCurrency: string, toCurrency:
     }
 }
 
-convertCurrency(100, "USD", "INR").then(console.log);
+convertCurrency(100, "USD", "PLN").then(console.log);
