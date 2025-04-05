@@ -14,8 +14,8 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 |‎  ‎ 4️⃣ |[Check if a String Contains Only Unique Characters](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20a%20String%20Contains%20Only%20Unique%20Characters)|This TypeScript function checks if a string contains only unique characters, i.e., no characters repeat.|
 |‎  ‎ 5️⃣ |[Check if a String is a Palindrome](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20a%20String%20is%20a%20Palindrome)|This TypeScript function checks whether a given string is a palindrome — a string that reads the same forward and backward|
 |‎  ‎ 6️⃣ |[Check if an Array is Sorted](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20an%20Array%20is%20Sorted)|This TypeScript function determines whether an array of numbers is sorted in non-decreasing order|
-|‎  ‎ 7️⃣ |[Count Vowels in a String](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Count%20Vowels%20in%20a%20String)||
-|‎  ‎ 8️⃣ |[]()||
+|‎  ‎ 7️⃣ |[Count Vowels in a String](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Count%20Vowels%20in%20a%20String)|This TypeScript function counts the number of vowels in a given string. Vowels include a, e, i, o, u and are counted regardless of case.|
+|‎  ‎ 8️⃣ |[Fibonacci Series](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Fibonacci%20Series)|This TypeScript function generates the Fibonacci sequence up to a given number of terms `n`.|
 |‎  ‎ 9️⃣ |[]()||
 | 1️⃣0️⃣ |[]()||
 | 1️⃣1️⃣ |[]()||
