@@ -43,7 +43,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 ### 𓀃 The Actual Installation🤌🤌
 
-#### You can use [Programiz Complier](https://www.programiz.com/swift/online-compiler/) or similar online compliers to run the code
+#### You can use [TS Playground](https://www.typescriptlang.org/play/?#code/Q) or similar online compliers to run the code
 
 #### But if you're using e.g. Windows Powershell you should:
 
