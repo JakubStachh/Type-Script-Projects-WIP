@@ -7,7 +7,8 @@ This TypeScript function takes an array of numbers and the total number `n` as i
 
 ## 📐 Algorithm
 
-- The function first calculates the **expected sum** of the numbers from 1 to `n` using the formula: 
+- The function first calculates the **expected sum** of the numbers from 1 to `n` using the formula:
+  
 $$
 \large \text{expectedSum} = \frac{n \times (n + 1)}{2}
 $$
