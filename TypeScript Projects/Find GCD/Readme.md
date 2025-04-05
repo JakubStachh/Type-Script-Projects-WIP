@@ -10,7 +10,7 @@ This TypeScript function calculates the **Greatest Common Divisor (GCD)** of two
 The Euclidean Algorithm is based on the principle:
 
 $$
-\large gcd(a, b) = gcd(b, a % b)
+\large \text{gcd}(a, b) = \text{gcd}(b, a \mod b)
 $$
 
 ##
