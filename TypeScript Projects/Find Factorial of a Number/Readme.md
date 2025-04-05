@@ -8,11 +8,11 @@ This TypeScript function calculates the **factorial** of a number using recursio
 ## 💡 Formula
 
 
-##
+
 $$
 \large n! = n × (n - 1) × (n - 2) × ... × 1 0! = 1 
 $$
-##
+
 
 
 ---
