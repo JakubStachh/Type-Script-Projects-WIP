@@ -69,7 +69,7 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
   ```
   If not run:
   ```
-  npm list -g typescript
+  npm install -g typescript
   ```
 
 ---
