@@ -21,14 +21,19 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | 1️⃣1️⃣ |[Find the GCD of Two Numbers](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20GCD%20of%20Two%20Numbers)|This TypeScript function calculates the **Greatest Common Divisor (GCD)** of two integers using the **Euclidean algorithm**|
 | 1️⃣2️⃣ |[Find the Intersection of Two Arrays](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Intersection%20of%20Two%20Arrays)|This TypeScript function finds the **intersection** of two arrays, meaning it returns an array containing all elements that appear in both arrays.|
 | 1️⃣3️⃣ |[Find the Largest & Smallest Numbers in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Largest%20%26%20Smallest%20Numbers%20in%20an%20Array)|This TypeScript function takes an array of numbers and returns an object containing the minimum and maximum values from the array.|
-| 1️⃣4️⃣ |[]()||
-| 1️⃣5️⃣ |[]()||
+| 1️⃣4️⃣ |[Find the Largest Element in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Largest%20Element%20in%20an%20Array)|This TypeScript function finds and returns the **largest number** from a given array of numbers using the built-in `Math.max()` function.|
+| 1️⃣5️⃣ |[Find the Longest Word in a Sentence](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Longest%20Word%20in%20a%20Sentence)|This TypeScript function takes a sentence as input and returns the **longest word** from that sentence.|
 | 1️⃣6️⃣ |[]()||
 | 1️⃣7️⃣ |[]()||
 | 1️⃣8️⃣ |[]()||
 | 1️⃣9️⃣ |[]()||
 | 2️⃣0️⃣ |[]()||
 | 2️⃣1️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
+| 2️⃣1️⃣ |[]()||
+
 
 
 ---
