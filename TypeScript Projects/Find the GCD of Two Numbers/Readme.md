@@ -1,4 +1,4 @@
-# 📘 GCD Function in TypeScript
+# 📌 GCD Function in TypeScript
 
 ## 🧮 Description
 This TypeScript function calculates the **Greatest Common Divisor (GCD)** of two integers using the **Euclidean algorithm**. The GCD of two numbers is the largest number that divides both without leaving a remainder.
