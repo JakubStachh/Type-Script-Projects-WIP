@@ -12,9 +12,10 @@ The Euclidean Algorithm is based on the principle:
 $$
 \large gcd(a, b) = gcd(b, a % b)
 $$
-
+##
+$$
 When `b` becomes `0`, `a` is the GCD.
-
+$$
 ---
 
 ## ✅ Code
