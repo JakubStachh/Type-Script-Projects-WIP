@@ -16,11 +16,13 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 |‎  ‎ 6️⃣ |[Check if an Array is Sorted](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20an%20Array%20is%20Sorted)|This TypeScript function determines whether an array of numbers is sorted in non-decreasing order|
 |‎  ‎ 7️⃣ |[Count Vowels in a String](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Count%20Vowels%20in%20a%20String)|This TypeScript function counts the number of vowels in a given string. Vowels include a, e, i, o, u and are counted regardless of case.|
 |‎  ‎ 8️⃣ |[Fibonacci Series](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Fibonacci%20Series)|This TypeScript function generates the Fibonacci sequence up to a given number of terms `n`.|
-|‎  ‎ 9️⃣ |[]()||
-| 1️⃣0️⃣ |[]()||
-| 1️⃣1️⃣ |[]()||
-| 1️⃣2️⃣ |[]()||
-| 1️⃣3️⃣ |[]()||
+|‎  ‎ 9️⃣ |[Find Factorial of a Number](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20Factorial%20of%20a%20Number)|This TypeScript function calculates the **factorial** of a number using recursion|
+| 1️⃣0️⃣ |[Find GCD](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20GCD)|This TypeScript function calculates the **Greatest Common Divisor (GCD)** of two integers using the **Euclidean Algorithm**|
+| 1️⃣1️⃣ |[Find the GCD of Two Numbers](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20GCD%20of%20Two%20Numbers)|This TypeScript function calculates the **Greatest Common Divisor (GCD)** of two integers using the **Euclidean algorithm**|
+| 1️⃣2️⃣ |[Find the Intersection of Two Arrays](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Intersection%20of%20Two%20Arrays)|This TypeScript function finds the **intersection** of two arrays, meaning it returns an array containing all elements that appear in both arrays.|
+| 1️⃣3️⃣ |[Find the Largest & Smallest Numbers in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Largest%20%26%20Smallest%20Numbers%20in%20an%20Array)|This TypeScript function takes an array of numbers and returns an object containing the minimum and maximum values from the array.
+
+|
 | 1️⃣4️⃣ |[]()||
 | 1️⃣5️⃣ |[]()||
 | 1️⃣6️⃣ |[]()||
