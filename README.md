@@ -41,22 +41,23 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 #### But if you're using e.g. Windows Powershell you should:
 
-- Make sure you have GO installed. You can install it using [GO](https://go.dev/doc/install):
+- Make sure you have Node.js & NPM installed. You can install it using [Node.js](https://nodejs.org/en):
 
   ```
-  go version
+  node --version
+  npm --version
   ```
   
-- [Download](https://github.com/JakubStachh/GO-Projects/archive/refs/heads/main.zip) the code
+- [Download](https://github.com/JakubStachh/Type-Script-Projects/archive/refs/heads/main.zip) the code
 - Unpack the zip file
 - Find the `GO-Projects-main\GO Projects\`
 - Open the folder of the program You want to try out `GO-Projects-main\GO Projects\Anagram Check`
 - and then run:
   
   ```sh
-  go run AnagramCheck.go
+  tsc example.ts
+  node example.js
   ```
-#### Should work in `Visual Studio Code` if yours *had been already set up for Golang*
 
 ---
 
