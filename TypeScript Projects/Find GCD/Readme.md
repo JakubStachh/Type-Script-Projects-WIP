@@ -29,11 +29,11 @@ function gcd(a: number, b: number): number {
 }
 
 console.log(gcd(56, 98)); // Output: 14
-🧪 Example
-typescript
-Copy
-Edit
+```
+## 🧪 Example
+```typescript
 gcd(56, 98);  // 14
 gcd(20, 8);   // 4
 gcd(15, 5);   // 5
 gcd(7, 3);    // 1
+```
