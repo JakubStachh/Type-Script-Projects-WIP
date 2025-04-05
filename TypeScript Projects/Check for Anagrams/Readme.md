@@ -1,4 +1,4 @@
-# 🔤 Anagram Checker in TypeScript
+# 📌 Anagram Checker in TypeScript
 
 ## 🚀 Description
 This simple TypeScript function checks whether two strings are anagrams. An anagram is a word formed by rearranging the letters of another, such as `"listen"` and `"silent"`.
