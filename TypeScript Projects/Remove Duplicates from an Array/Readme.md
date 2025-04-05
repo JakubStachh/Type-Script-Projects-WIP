@@ -27,6 +27,6 @@ console.log(removeDuplicates([1, 2, 2, 3, 4, 4])); // Output: [1, 2, 3, 4]
 ```
 [1, 2, 3, 4]
 ```
-In this example, the input array [1, 2, 2, 3, 4, 4] has duplicates, and after applying the function, the result is [1, 2, 3, 4].
+In this example, the input array `[1, 2, 2, 3, 4, 4]` has duplicates, and after applying the function, the result is `[1, 2, 3, 4]`.
 #
 
