@@ -8,10 +8,10 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 
 | #  | Project Name               | Description |
 |----|----------------------------|-------------|
-|‎  ‎ 1️⃣ |[Check If a Number is Prime](https://github.com/JakubStachh/Swift-Projects/tree/main/Swift%20Projects/Check%20If%20a%20Number%20is%20Prime)|Checks if a number is prime by verifying it has no divisors other than 1 and itself|
-|‎  ‎ 2️⃣ |[Check if a Number is Even or Odd]()| Determines if a number is prime |
-|‎‎‎  ‎ 3️⃣ |[]()| Generates Fibonacci series up to `n` |
-|‎  ‎ 4️⃣ |[]()| Verifies if a string is a palindrome |
+|‎  ‎ 1️⃣ |[Check for Anagrams](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20for%20Anagrams)|This simple TypeScript function checks whether two strings are anagrams|
+|‎  ‎ 2️⃣ |[Check for Prime Number](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20for%20Prime%20Number)|This TypeScript function checks if a given number is a prime number|
+|‎‎‎  ‎ 3️⃣ |[Check if Two Strings are Anagrams](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20Two%20Strings%20are%20Anagrams)|This TypeScript function determines whether two given strings are anagrams|
+|‎  ‎ 4️⃣ |[Check if a String Contains Only Unique Characters](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Check%20if%20a%20String%20Contains%20Only%20Unique%20Characters)|This TypeScript function checks if a string contains only unique characters, i.e., no characters repeat.|
 |‎  ‎ 5️⃣ |[]()| A simple CLI Tic-Tac-Toe game |
 |‎  ‎ 6️⃣ |[]()| Converts Celsius to Fahrenheit and vice versa |
 |‎  ‎ 7️⃣ |[]()|
