@@ -23,10 +23,10 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
 | 1️⃣3️⃣ |[Find the Largest & Smallest Numbers in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Largest%20%26%20Smallest%20Numbers%20in%20an%20Array)|This TypeScript function takes an array of numbers and returns an object containing the minimum and maximum values from the array.|
 | 1️⃣4️⃣ |[Find the Largest Element in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Largest%20Element%20in%20an%20Array)|This TypeScript function finds and returns the **largest number** from a given array of numbers using the built-in `Math.max()` function.|
 | 1️⃣5️⃣ |[Find the Longest Word in a Sentence](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Longest%20Word%20in%20a%20Sentence)|This TypeScript function takes a sentence as input and returns the **longest word** from that sentence.|
-| 1️⃣6️⃣ |[]()||
-| 1️⃣7️⃣ |[]()||
-| 1️⃣8️⃣ |[]()||
-| 1️⃣9️⃣ |[]()||
+| 1️⃣6️⃣ |[Find the Missing Number in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Missing%20Number%20in%20an%20Array)|This TypeScript function takes an array of numbers and the total number `n` as input and returns the missing number in the array|
+| 1️⃣7️⃣ |[Find the Second Largest Number in an Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Find%20the%20Second%20Largest%20Number%20in%20an%20Array)|This TypeScript function finds the second largest element in an array, while removing duplicates|
+| 1️⃣8️⃣ |[Flatten a Nested Array](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Flatten%20a%20Nested%20Array)|This TypeScript function flattens a nested array into a single-level array|
+| 1️⃣9️⃣ |[Merge Two Sorted Arrays](https://github.com/JakubStachh/Type-Script-Projects/tree/main/TypeScript%20Projects/Merge%20Two%20Sorted%20Arrays)|This TypeScript function merges two sorted arrays and then sorts the resulting array in ascending order|
 | 2️⃣0️⃣ |[]()||
 | 2️⃣1️⃣ |[]()||
 | 2️⃣1️⃣ |[]()||
