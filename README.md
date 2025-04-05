@@ -65,7 +65,8 @@ A collection of 'beginner-friendly' **Swift programming projects** covering **al
   node example.js
   ```
 - Remember to check if you got tsc:
-  ```tsc --version
+  ```
+  tsc --version
   ```
   If not run:
   ```
