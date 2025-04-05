@@ -10,14 +10,10 @@ This TypeScript function calculates the **factorial** of a number using recursio
 
 ##
 $$
-\large n! = n × (n - 1) × (n - 2) × ... × 1 0! = 1 (by definition)
+\large n! = n × (n - 1) × (n - 2) × ... × 1 0! = 1 
 $$
 ##
 
-
-yaml
-Copy
-Edit
 
 ---
 
